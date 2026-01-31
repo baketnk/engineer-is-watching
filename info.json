@@ -5,5 +5,5 @@
   "author": "baketnk",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0"],
-  "description": "When the engineer is away, the machines will play."
+  "description": "When the engineer is away, the machines will play. Machines that you aren't standing near or looking at will slow down to a crawl over time."
 }
