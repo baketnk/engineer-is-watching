@@ -1,0 +1,9 @@
+{
+  "name": "engineer-is-watching",
+  "version": "0.1.0",
+  "title": "The Engineer Is Watching",
+  "author": "baketnk",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "When the engineer is away, the machines will play."
+}
